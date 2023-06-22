@@ -25,7 +25,7 @@ SSH_PASSWORD : ssh_password
 ```
 Note that the MYSQL is hard coded to the user wow_character_check, reference below to create
 
-
+A restart of your computer will then be required!
 
 ##  SQL User
 Most likley you will need to create a new user for this script to use.
